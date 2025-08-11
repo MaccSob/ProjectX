@@ -1,0 +1,3 @@
+# RecipeSearcher
+
+Tech used: NodeJS
