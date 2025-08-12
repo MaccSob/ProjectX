@@ -1,3 +1,3 @@
 # RecipeSearcher
 
-Tech used: NodeJS
+Tech used: NodeJS, Scraper
