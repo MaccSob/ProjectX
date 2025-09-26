@@ -1,3 +1,3 @@
-# RecipeSearcher
+# Project yet to be named 
 
-Tech used: NodeJS, Scraper
+React for sure
