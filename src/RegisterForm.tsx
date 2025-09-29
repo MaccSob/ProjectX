@@ -1,6 +1,6 @@
 
 
-export const FormSearch = () => {
+export const FormRegister = () => {
     return (
         <>
         <form action="">
