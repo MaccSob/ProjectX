@@ -34,7 +34,8 @@ export const FormRegister = () => {
         <input type="password" name="cpassword" id="cpassword" />
     
             </div>
-  
+        <button type="submit">Create Account</button>
+
         </form>
         </>
 
