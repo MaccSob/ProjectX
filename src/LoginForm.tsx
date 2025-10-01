@@ -24,7 +24,7 @@ export const LoginForm = () => {
      <div className="form_group">
      
         <label htmlFor="login">Password</label>
-        <input type="password" name="password" id="password" />
+        <input type="password" placeholder="Enter your Password" name="password" id="password" />
           
             </div>
       
