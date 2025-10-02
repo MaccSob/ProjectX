@@ -1,1 +1,1 @@
-App that helps you find videogames to play.
+App that helps you find videogames to play. and more.
