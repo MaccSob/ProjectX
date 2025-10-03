@@ -1,3 +1,5 @@
+  import './Navbar.css'
+
   const Navbar = () => {     
      return (  
            <nav className="mainnav">       
@@ -6,7 +8,7 @@
                          <li>Home</li>           
                         <li>Games</li>            
                              <li>Top 100</li>            
-                             <li>Collection</li>          
+                             <li>Your Lists</li>          
                            </ul> 
 
                           <div className="search_box">          
@@ -18,4 +20,5 @@
                                  )  
                         
                          }  
+                         
                          export default Navbar;

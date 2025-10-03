@@ -1,0 +1,44 @@
+.mainnav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 7%;
+}
+ul {
+    flex: 1;
+    list-style: none;
+    text-align:center;
+}
+ul>li {
+    display: inline-block;
+    margin: 10px 20px;
+    font-size: 17px;
+    cursor: pointer;
+      transition: 0.5s;
+}
+ul>li:hover {
+      color: #535bf2;
+transform: translateY(2px);
+}
+
+.search_box {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 50px;
+    
+}
+.search_box>input {
+    padding: 6px;
+    font-size: 17px;
+    max-width: 200px;
+}
+.search_box>input:hover {
+    transform: translateY(2px);
+          color: #535bf2;
+}
+.search_box>input:focus {
+    transform: translateY(2px);
+          color: #535bf2;
+}
